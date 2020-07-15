@@ -1,1 +1,1 @@
-echo "Conflict ghi"
+echo "Conflict abc"
